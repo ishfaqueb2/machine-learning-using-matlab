@@ -1,0 +1,4 @@
+Class,Support,Precision,Recall
+Normal,80,0.45679012345679,0.4625
+Scratches,80,0.453488372093023,0.4875
+Spots,80,0.438356164383562,0.4
